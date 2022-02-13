@@ -27,6 +27,6 @@
 - _Умение сопровождать клиентов_
 - _Умение выстраивать отношения_
 
-![Мое фото](/Users/pandeeva/Documents/CourceWork/img)
+![Мое фото](/Users/pandeeva/Documents/CourceWork/img/1.jpg)
 
 
